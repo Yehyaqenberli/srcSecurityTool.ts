@@ -131,4 +131,4 @@ class ChromeSecurityTool {
   }
 }
 
-export default ChromeSecurityTool;    bunu analiz et ve github yukleme adimi olustur
+export default ChromeSecurityTool;    
